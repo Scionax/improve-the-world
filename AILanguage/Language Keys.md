@@ -1,8 +1,17 @@
-// This is just a quick draft based on years of work on language, distilling it down to the fewest components possible.
-// There are more than this, and I'll add them soon once I'm happy with how they're organized.
-// I'm hoping to get this online so that when sufficiently advanced AI (hopefully GPT-3) can assist me with it, it will be here for review.
+
+### Comments
+
+This is just a quick draft based on years of work on language, distilling it down to the fewest components possible.
+
+There are more than this, and I'll add them soon once I'm happy with how they're organized.
+
+I'm hoping to get this online so that when sufficiently advanced AI (hopefully GPT-3) can assist me with it, it will be here for review.
+
+
+### Language Keys
 
 Aspects
+
 	Physical
 	Mental
 	Perceptual
@@ -44,6 +53,7 @@ Archetypes
 	Modify			Alter			Change			Modified
 	
 Properties (Material, Conceptual)
+
 	Strength			Ability to affect.
 	Durability			Ability to endure.
 	Resilience			Tolerance against pressure or influence.
@@ -51,9 +61,10 @@ Properties (Material, Conceptual)
 	Stamina				Ability to regenerate or maintain energy.
 	Energy				Capacity for work.
 	Speed				Movement rate.
-	Acceleration		Speed of motion.
+	Acceleration			Speed of motion.
 	
 Measurements, Units
+
 	Mass, Volume
 	Weight
 	Distance
@@ -64,11 +75,13 @@ Measurements, Units
 	Probability
 	
 Biological Abilities
+
 	Intelligence, Logic
 	Memory
 	Creativity
 	
 Societal
+
 	Residential
 	Commercial, Business, Finance
 	Industrial, Manufacturing
@@ -87,6 +100,7 @@ Societal
 	Communication, Sales, Diplomatic
 
 Things
+
 	Item
 	Supply
 	Piece, Ingredient
@@ -110,7 +124,8 @@ Things
 	Food, Consumable
 	Event, Activity
 	
-Component Aspects (Anatomy, Components):
+Component Aspects (Anatomy, Components)
+
 	System
 	Component, Organ
 	Brain, Processor, Controller
@@ -129,11 +144,13 @@ Component Aspects (Anatomy, Components):
 	Protective Layer, Hide, Skin, Shell, Exoskeleton
 	
 Entity (NOUN)
+
 	Entity, Creature (Golem, Spirit, Monster, ...) // possibly combine with animal, plant?
 	Animal
 	Plant
 
 Medium, Elements
+
 	Solid, Subterranean
 	Surface, Earth
 	Liquid, Water
@@ -144,6 +161,7 @@ Medium, Elements
 	Essence, Aura, Mana
 
 Spectrum
+
 	Least, Minimal, Trivial, Inconsequential, Terrible, Very Low
 	Few, Little, Bad, Low
 	Some, Poor, Below Average, Less Relevant, Somewhat Low
@@ -154,6 +172,7 @@ Spectrum
 	All, Full, Complete, Maximum, Highest, Best, Ideal
 
 Math + Transfer (Add, Subtract, Reset)
+
 	None, Empty, Unstarted
 	Add, Increment
 	Subtract, Decrement
@@ -162,6 +181,7 @@ Math + Transfer (Add, Subtract, Reset)
 	Exponent
 	
 Data-Points
+
 	Class, Category, Archetype
 	Type
 	Unit
@@ -171,6 +191,7 @@ Data-Points
 	Option (Choice, Range)
 	
 Source + Sets
+
 	Me, Self, I
 	You, Observer
 	It, The, Target, This, That
@@ -181,11 +202,13 @@ Source + Sets
 	List
 	
 Gender
+
 	Masculine, He
 	Feminine, She
 	Unspecified Gender (i.e. they, but singular)
 	
 Relationships + Heirarchy
+
 	Related, Relative
 	Stranger
 	Parent, Superior
@@ -196,6 +219,7 @@ Relationships + Heirarchy
 	Descendent, Leaf
 	
 1D Relative Position
+
 	Beginning
 	Middle
 	End
@@ -205,6 +229,7 @@ Relationships + Heirarchy
 	Everywhere
 	
 Relative Position
+
 	Inner Edge
 	Outer Edge, Side
 	Inner Corner
@@ -215,6 +240,7 @@ Relative Position
 	Axis
 	
 Direction
+
 	Up
 	Down
 	Left
@@ -225,6 +251,7 @@ Direction
 	Out
 
 Movement + State
+
 	Start, On, Active
 	Stop, Off, Inactive
 	Forward, Passive Work
@@ -235,41 +262,48 @@ Movement + State
 	Retract, Shrink, Depleting
 
 Verbs
+
 	Action
 	Use
 	Interact
 	Move
 	
 Motion
+
 	Vibrate, Shake
 	Bounce, Deflect
 	Pierce, Penetrate
 	Freeze, Stabilize, Lock Into Place
 
 Trait, Characteristic, Property
+
 	Attribute (Size, Weight, Physical Property, etc)
 	Appearance
 	Condition, Quality
 	State
 
 Capabilities (Trait)
+
 	Skill, Talent, Ability
 	Specialization, Proficiency, Studies, Expertice, Knowledge
 	Feat, Power, Ability
 	
 Receptive Perception
+
 	Recognition, Familiarity
 	Reputation, Popularity, Famee
 	Support, Backing
 	Clearance, Allowance, Rank
 
 Influence
+
 	Assets, Resources, Money
 	Role, Profession, Occupation, Function
 	Connections, Contacts, Allies
 	Achievements, Awards, Degrees
 	
 Sensory + Stimuli Aspects
+
 	Audio, Sound, Auditory
 	Visual, Light, Imagery, Art
 	Touch
