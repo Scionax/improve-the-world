@@ -8,7 +8,6 @@
 * STON Notation
 * Truth Detection - Data
 * Truth Detection - Facial Recognition
-* Laws
 * Lawyers, Jury
 * Legal Fees, Insanity, No Money
 * Rehab vs. Prison
