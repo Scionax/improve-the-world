@@ -1,7 +1,6 @@
-# Things to Add
+# Things to Add (or update)
 * AI Language (Code Version)
 * Universal Language (For Human Speech)
-* The Better Representative System - combine with Voting Method for best use case.
 * Better Operating System
 * Better ASCII Codes
 * Universal ID
