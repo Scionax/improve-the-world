@@ -1,11 +1,11 @@
 
 ### Comments
 
-This is just a quick draft based on years of work on language, distilling it down to the fewest components possible.
+This is a draft based on years of work on this language, distilling it down to the fewest components that make sense for its intended purpose.
 
-There are more than this, and I'll add them soon once I'm happy with how they're organized.
+This current set includes exactly 256 components. A small number of these components have naturally-extended sets where applicable.
 
-I'm hoping to get this online so that when sufficiently advanced AI (hopefully GPT-3) can assist me with it, it will be here for review.
+My hope is that sufficiently advanced AI (hopefully GPT-3 in the near future) can assist me with developing the vocabulary, which should allow me to refine the language.
 
 
 ### Language Keys
@@ -86,15 +86,15 @@ Aspects
 	Forces, Physics
 	Quantum (switch if needed)
 	
-	Abstract, Conceptual
+	Concept, Abstract, Conceptual
 	Data, Information
 	Language
+	Digital, Virtual
 	
 	Natural
 	Primitive
 	Mechanical
 	Electronic
-	Digital, Virtual
 
 Archetypes
 	
@@ -108,52 +108,27 @@ Archetypes
 	Destruction		Destroy			Destruction		Destroyed
 	Modify			Alter			Change			Modified
 	
-Properties (Material, Conceptual)
-
-	Strength			Ability to affect.
-	Durability			Ability to endure.
-	Resilience			Tolerance against pressure or influence.
-	Flexibility			Ability to flow with change.
-	Stamina				Ability to regenerate or maintain energy.
-	Energy				Capacity for work.
-	Speed				Movement rate.
-	Acceleration		Speed of motion.
-	
-Measurements, Units
-
-	Mass, Volume
-	Weight
-	Distance
-	Density
-	Precision, Accuracy
-	Intensity
-	Frequency
-	Probability
-	
-Biological Abilities
-
-	Intelligence, Logic
-	Memory
-	Creativity
-	
 Societal
 
 	Residential
 	Commercial, Business, Finance
 	Industrial, Manufacturing
-	Engineering, Architecture, Design
-	Crafting, Construction
-	Labor, Tradesman, Manual Work
 	Entertainment, Recreational
+	
+	Crafting, Construction
+	Engineering, Architecture, Design
+	Labor, Tradesman, Manual Work
+	Transportation
+	
 	Education, Teaching, Scholarly
 	Research, Science
 	Ideological, Philosophical, Religious
+	Health, Medical
+	
 	Administrative, Leader, Management, Government, Political
+	Communication, Sales, Diplomatic
 	Judicial, Legal
 	Enforcement, Security, Police, Military
-	Transportation
-	Health, Medical
-	Communication, Sales, Diplomatic
 
 Things
 
@@ -176,6 +151,7 @@ Things
 	Obstruction, Barrier, Wall
 	Path
 	Event, Activity
+	???
 	
 Assets
 	
@@ -185,6 +161,8 @@ Assets
 	Vegetation, Plant
 	Food, Consumable
 	Material, Substance
+	Language Asset (Paragraph, Sentence, Punctuation, Letter, Digit)
+	Section Asset (Heading, Footer, Side-Section, Page)
 	
 	Shape (Line, Triangle, C-Curve, Polygon, Rotation, Fractal, Pattern)
 	Color (Red, Blue, Shade, Pastal, Opacity, Light, Dark)
@@ -192,6 +170,8 @@ Assets
 	Material Texture (Course, Granular, Misty, Steamy, Woven, Fabric, Fibrous, Stringy, Pourous, Foam)
 	Surface Texture (Rough, Smooth, Dry, Wet, Slimy, Sticky)
 	Physical Property (Cohesive, Adhesive, Magnetic, Binding, Flexible, Gaseous, Strong)
+	???
+	???
 
 Component Aspects (Anatomy, Components)
 
@@ -223,16 +203,6 @@ Medium, Elements
 	Plasma, Fire
 	Essence, Aura, Mana
 
-Data-Points
-
-	Class, Category, Archetype
-	Type
-	Unit
-	Value, Content, Data
-	Name, Title
-	Reference
-	Option (Choice, Range)
-	
 Source + Sets
 
 	Me, Self, I
@@ -240,15 +210,16 @@ Source + Sets
 	It, The, Target, This, That
 	A, Any, Non-Specific
 	Plurality, Multiple
-	Group
+	Group (Them)
 	Collection (+Dictionary, +Table, +Network, +Set)
 	List
 	
-Gender
+Identifiers
 
 	Masculine, He
 	Feminine, She
 	Unspecified Gender (i.e. they, but singular)
+	??
 	
 Relationships + Heirarchy
 
@@ -283,7 +254,6 @@ Direction
 	Right
 	Forward
 	Back
-	
 	Center
 	Undefined Location, Somewhere
 	
@@ -296,15 +266,34 @@ Movement + State
 	
 Verbs
 
-	Action
+	Action (Open, Punch)
 	Use
 	Interact, Collide, Touch
 	Movement
 	
 	Motion (+Extended)
+	??
+	
+Tense
+	
+	Past
+	Present
+	Future
+	Temporary (take temporary = borrow, give temporary = lend)
+	
+Data-Points
+
+	Class, Category, Archetype
+	Type
+	Unit
+	Value, Content, Data
+	Name, Title
+	Option (Choice, Range)
+	Property
+	Reference
 	
 Trait, Characteristic, Property
-
+	
 	Attribute (Size, Weight, Physical Property, etc)
 	Appearance
 	Condition, Quality
@@ -312,9 +301,32 @@ Trait, Characteristic, Property
 
 Capabilities (Trait)
 
-	Skill, Talent, Ability
+	Skill, Talent, Ability (Intelligence, Creativity, Gardening)
 	Specialization, Proficiency, Studies, Expertice, Knowledge
 	Feat, Power, Ability
+	??
+	
+Properties (Material, Conceptual)
+
+	Strength			Ability to affect.
+	Durability			Ability to endure.
+	Resilience			Tolerance against pressure or influence.
+	Flexibility			Ability to flow with change.
+	Stamina				Ability to regenerate or maintain energy.
+	Energy				Capacity for work.
+	Speed				Movement rate.
+	Acceleration		Speed of motion.
+	
+Measurements, Units
+
+	Mass, Volume
+	Weight
+	Distance
+	Density
+	Precision, Accuracy
+	Intensity
+	Frequency
+	Probability
 	
 Receptive Perception
 
@@ -339,9 +351,10 @@ Sensory + Stimuli Aspects
 
 Questions, Declarations
 
-	Is (+Past = Did, +Future = Will)
+	Is, Be (+Past = Did, +Future = Will)
 	Can, Capability
 	Should, Suggestion
+	??
 
 	How, Technique, Method
 	Why, Reason, Because
@@ -350,3 +363,8 @@ Questions, Declarations
 
 	About, Of, Relating To
 	Has, Possession
+
+Special
+	
+	Delimiter
+	Extended Set
