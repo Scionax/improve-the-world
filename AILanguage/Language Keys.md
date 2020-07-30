@@ -10,6 +10,62 @@ I'm hoping to get this online so that when sufficiently advanced AI (hopefully G
 
 ### Language Keys
 
+Numbers
+	
+	Zero, Not, None
+	One, Least, Minimal, Lowest, Trivial, Inconsequential, Terrible
+	Two, Very Bad, Very Low, Very Few
+	Three, Few, Little, Bad, Low
+	Four, Some, Poor, Below Average, Less Relevant, Somewhat Low
+	Five, Average, Moderate, Equal
+	Six, Good, Above Average, Meaningful, Quality
+	Seven, Many, Large Portion, Excellent, High, Great
+	Eight, Majority, Extraordinary, Very High
+	Nine, Maximum, Highest, Most, All, Full, Complete, Best, Ideal
+	
+	Thousand
+	Thousandth
+	
+	Decimal
+	Exponent (combine w/Thousand and 2: Million, 3: Billion, 4: Trillion, etc.)
+	Percent
+	Fraction (2: One-Half, 3: One-Third, 4: One-Fourth, etc)
+	
+	Number
+	Order (1: 1st position, 2: 2nd position, etc)
+	
+	Quantity
+	Portion
+	Quality
+	???
+
+Math + Transfer (Add, Subtract, Reset)
+
+	Add, Increase, Increment
+	Subtract, Decrease, Reduce, Decrement
+	Multiply
+	Divide
+	
+	Receive, Acquire, Take, Gain
+	Set, Set To
+	Put, Give
+	Exchange, Trade, Swap
+	
+	Generate, Produce
+	Maintain, Keep
+	Lose
+	Risk, Randomize
+	
+	Positive,
+	Neutral,
+	Negative,
+	Uncertain,
+	
+	Equal
+	Greater Than
+	Less Than
+	Approximately, Roughly
+	
 Aspects
 
 	Physical
@@ -24,7 +80,7 @@ Aspects
 	Math
 	Spacial
 	Energy, Electricity
-	Material, Matter
+	Matter
 	Chemical, Chemistry
 	Temporal, Time
 	Forces, Physics
@@ -61,7 +117,7 @@ Properties (Material, Conceptual)
 	Stamina				Ability to regenerate or maintain energy.
 	Energy				Capacity for work.
 	Speed				Movement rate.
-	Acceleration			Speed of motion.
+	Acceleration		Speed of motion.
 	
 Measurements, Units
 
@@ -119,11 +175,24 @@ Things
 	Environment, Setting
 	Obstruction, Barrier, Wall
 	Path
-	Substance, Material
-	Vegetation
-	Food, Consumable
 	Event, Activity
 	
+Assets
+	
+	Body
+	Entity, Creature (Golem, Spirit, Monster, ...) // possibly combine with animal, plant?
+	Animal
+	Vegetation, Plant
+	Food, Consumable
+	Material, Substance
+	
+	Shape (Line, Triangle, C-Curve, Polygon, Rotation, Fractal, Pattern)
+	Color (Red, Blue, Shade, Pastal, Opacity, Light, Dark)
+	Sound (Pitch, Tone, Timbre, Chord, Loudness, B-Sharp)
+	Material Texture (Course, Granular, Misty, Steamy, Woven, Fabric, Fibrous, Stringy, Pourous, Foam)
+	Surface Texture (Rough, Smooth, Dry, Wet, Slimy, Sticky)
+	Physical Property (Cohesive, Adhesive, Magnetic, Binding, Flexible, Gaseous, Strong)
+
 Component Aspects (Anatomy, Components)
 
 	System
@@ -143,12 +212,6 @@ Component Aspects (Anatomy, Components)
 	Circuit, Nerves, Data Exchange
 	Protective Layer, Hide, Skin, Shell, Exoskeleton
 	
-Entity (NOUN)
-
-	Entity, Creature (Golem, Spirit, Monster, ...) // possibly combine with animal, plant?
-	Animal
-	Plant
-
 Medium, Elements
 
 	Solid, Subterranean
@@ -160,26 +223,6 @@ Medium, Elements
 	Plasma, Fire
 	Essence, Aura, Mana
 
-Spectrum
-
-	Least, Minimal, Trivial, Inconsequential, Terrible, Very Low
-	Few, Little, Bad, Low
-	Some, Poor, Below Average, Less Relevant, Somewhat Low
-	Average
-	Fair Quantity, Good, Above Average, Meaningful, Quality
-	Many, Large Portion, Excellent, High, Great
-	Majority, Extraordinary, Very High
-	All, Full, Complete, Maximum, Highest, Best, Ideal
-
-Math + Transfer (Add, Subtract, Reset)
-
-	None, Empty, Unstarted
-	Add, Increment
-	Subtract, Decrement
-	Multiply
-	Divide
-	Exponent
-	
 Data-Points
 
 	Class, Category, Archetype
@@ -223,58 +266,43 @@ Relationships + Heirarchy
 	Beginning
 	Middle
 	End
-	
-	Nowhere
-	Somewhere
-	Everywhere
-	
-Relative Position
-
-	Inner Edge
-	Outer Edge, Side
-	Inner Corner
-	Outer Corner
-	Inside
-	Outside (Above, Below, Anterior, Posterior, etc.)
-	Center
 	Axis
 	
+Relative Position
+	
+	Edge
+	Corner
+	Inside
+	Outside (Above, Below, Anterior, Posterior, etc.)
+	
 Direction
-
+	
 	Up
 	Down
 	Left
 	Right
 	Forward
 	Back
-	In
-	Out
-
+	
+	Center
+	Undefined Location, Somewhere
+	
 Movement + State
 
 	Start, On, Active
 	Stop, Off, Inactive
-	Forward, Passive Work
-	Back, Passive Negate (+Return = Back Complete)
 	Turn
 	Rotate
-	Extend, Grow, Charging
-	Retract, Shrink, Depleting
-
+	
 Verbs
 
 	Action
 	Use
-	Interact
-	Move
+	Interact, Collide, Touch
+	Movement
 	
-Motion
-
-	Vibrate, Shake
-	Bounce, Deflect
-	Pierce, Penetrate
-	Freeze, Stabilize, Lock Into Place
-
+	Motion (+Extended)
+	
 Trait, Characteristic, Property
 
 	Attribute (Size, Weight, Physical Property, etc)
@@ -308,3 +336,17 @@ Sensory + Stimuli Aspects
 	Visual, Light, Imagery, Art
 	Touch
 	Olfactory (Taste, Smell)
+
+Questions, Declarations
+
+	Is (+Past = Did, +Future = Will)
+	Can, Capability
+	Should, Suggestion
+
+	How, Technique, Method
+	Why, Reason, Because
+	What, Purpose, Function, Role
+	Which, Option (+Location = Where, +Person = Who)
+
+	About, Of, Relating To
+	Has, Possession
