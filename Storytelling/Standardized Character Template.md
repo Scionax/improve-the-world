@@ -25,9 +25,13 @@ This template is designed to work seamlessly with other templates, including det
 The files contained with a character's directory are as follows:
 * /images: Contains artwork of the character.
 * /stages: Contains modification templates of the base character at different life stages or circumstances.
+* /styles: Contains appearance templates for a variety of styles the character may appear in.
+	* /default: Contains the default appearance, which all other templates are based off.
 * Setting Template: Indicates what settings or stories make sense for this character, and which don't.
+* Build Instructions: An original text file created by a human to prepare it for AI generation. AI should only read this file, never overwrite it.
+* Stage Overview: A text file that provides an overview of the character's current stage.
+* Previous Stage: A text file that indicates the previous stage, and describes the transformation to the current stage.
 * Details Template: Contains any details that are generally considered fixed and unchanging; e.g. name, titles, aliases, character GUID, etc.
-* Stage Template: Contains a list of the character's primary stages in life, providing references to the /stages directory.
 * Model Template: Contains genetic markers and appearance (race, gender, weight, hair style, tattoos, etc).
 	* Tracks values with the purpose of being used for procedural generation of the character.
 	* Also contains text descriptions of typical cosmetics and style, such as clothing choices, standard accessories, etc.
