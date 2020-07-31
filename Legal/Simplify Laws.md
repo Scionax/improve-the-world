@@ -10,11 +10,12 @@
 * Significantly reduce the number of lawyers and legal participants involved.
 
 ## Simplifying Laws
-Laws must be written with the spirit of their intention and the nature of justice to be applied, without the need for extreme specificity in how it must be handled for each case. The law needs to accept that some things need to be regulated, punished, or labeled as crime even if they are not explicitly defined.
+The original intention of specificity in the law was to remove bias from the equation. Sadly, that intention has devolved law into a tool for the wealthy to exploit, and the poor to suffer. The law now has overwhelming bias in favor of those who practice its exploitation and it fails to provide justice for its citizens. It often serves to protect the guilty while generally oppressing those who cannot afford to engage it.
 
-The number of laws and the amount of specificity involved in each law has gotten far too extreme, bloated, and unsustainable. It is an unfortunate reality of the nature of our legal system that if it wasn't explicitly specified it wouldn't be illegal, regulated, or punished. This was a clearly ineffective tactic that failed to provide justice.
+Rectifying this problem ultimately requires further work, but simplifying the laws is one step that is VERY crucially required. The number of laws and the amount of specificity involved in each law has gotten far too extreme, bloated, and unsustainable.
 
-Some may try to argue that the intention was to remove bias from the law, but the law has overwhelming bias and is failing to provide justice for its citizens. Instead, the law is favoring the wealthy, often serving to protect the guilty, and generally oppressing those who cannot afford to engage with the legal system.
+Therefore, as one of many esssential steps toward justice, laws must be written with the spirit of their intention and the nature of justice to be applied, without the need for extreme specificity in how it must be handled for each case. The law needs to accept that some things need to be regulated, punished, or labeled as crime even if they are not explicitly defined.
 
+One of the impacts of this change will be a drastic reduction in legal participants, which in itself will greatly help turn the tide against exploitation. It also empowers jurors to make unbiased and contextual decisions, rather than empowering the legal teams.
 
 // Note: Can add examples, general rules, how this is actually implemented in a healthy way. Regulations also.
