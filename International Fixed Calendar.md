@@ -11,7 +11,7 @@ The full details of the International Fixed Calendar can be found here: https://
 
 2. Every month begins on a Sunday and ends on a Saturday.
 
-3. Since every month has exactly 28 days, there are exactly four weeks with exactly seven days each. Each day always starts on the same column, meaning you always know what day of the week it is based the date alone.
+3. Since every month has exactly 28 days, there are exactly four weeks with exactly seven days each. Each day always starts on the same column, meaning you always know what day of the week it is based on the date alone.
 
 4. There is a calibration day known as "Year Day" at the end of each year, bringing the total days to 365.
 
