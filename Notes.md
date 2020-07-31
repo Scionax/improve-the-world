@@ -1,20 +1,49 @@
-# Things to Add (or update)
+# Things to Add
 * AI Language (Code Version)
 * Universal Language (For Human Speech)
+* The Better Representative System - combine with Voting Method for best use case.
 * Better Operating System
 * Better ASCII Codes
 * Universal ID
 * Simple Markup Language
-* STON Notation
 * Truth Detection - Data
 * Truth Detection - Facial Recognition
 * Lawyers, Jury
 * Legal Fees, Insanity, No Money
 * Rehab vs. Prison
-* Borderless Govering
+* Borderless Government
 * Universal Government + Local Government
 * Education
 * Diplomacy / Business Techniques
+* File Metadata
+* Music Directory (EFS redesign .midi 2.0)
+* Subtitles (for Videos)
+* SML and Program UI in EFS; UI Templates
+* Metadata (Common, About, and Custom per directory type)
+
+# Storytelling Templates to Add
+* Characters
+* Plotline, Plot Segments, Outlines
+* Places, Locations, Buildings
+* Regions, Territories, Areas, Zones
+* Urban, Cities, Villages
+* Culture
+* Religious Factions
+* Political Factions
+* Organizations, Business
+* Organizations, Guild, Consortiums
+* Government
+* Race
+* Creature
+* Vegetation
+* Food, Recipes
+* Magic System
+* Tech System
+* Supernatural System
+* Technologies
+* Abilities (Magical, Supernatural, Fictional, Futuristic, Fantasy, Natural)
+* World (web with factions, cities, locations, lore, people)
+* Timeline (story)
 
 ### Quick Notes
 The Universal Language and AI Language are essentially the same thing, or they're at least modular in the same way. They're conceptually similar. They build from modular language concepts (such as the "Hand" and "Equipment" concepts combining to make the word "Glove") rather than from letters that don't correlate to each other in any way. It seeks to eliminate all the inefficiencies of modern languages, but despite several years of working on it, it never feels complete. I should at least upload a basic page on it, though.
