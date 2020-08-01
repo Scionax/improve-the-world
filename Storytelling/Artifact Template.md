@@ -20,8 +20,6 @@ An artifact describes an item that is not mass-produced; often one that is super
 The artifact template is a single markup file with specific heading requirements as part of the specification. Some primary headers also have secondary headers.
 
 The designated headers within the template are as follows:
-* ArtifactID: A Global Unique Identifier that identifies the artifact within the globally shared library of artifacts.
-* Build Instructions: An original text instruction preparing it for AI generation. AI should only read this text, never overwrite it.
 * Appearance: A text description of the artifact's appearance and condition.
 	* Original Appearance: A secondary header that describes the artifact's original appearance, if different than the current appearance.
 * Function: Describes the artifact's function and mechanics.
