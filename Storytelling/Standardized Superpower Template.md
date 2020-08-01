@@ -6,17 +6,17 @@ Some superpowers appear to defy the traditional laws of physics, such as alterin
 
 Superpowers are assigned to logically similar groups rather than packed into one. For example, Superman would be described as possessing many superpowers, not one of them. His powers would include a very high combat classification of Laser Eyes, a mid-level utility classification of X-Ray Vision, and so forth.
 
-## Advantages of Standardizing Superpower Templates
+## Advantages of Standardizing Storytelling Templates
 * Creates a consistent format to train AI models on.
 * Creates a consistent format for editors, APIs, databases, and other development tools to use.
-* Enables automatic integration into other storytelling materials, such as settings, locations, etc.
+* Enables simple and automatic integration into related storytelling materials.
 * Greatly simplifies collaboration between storytellers.
 * Greatly simplifies worldbuilding process and reduces the time investment.
 * Provides a shared vocabulary and understanding among the community.
 * Enables a universal system for lookup and retrieval.
-* Simplifies the process of generating content for AI and humans alike.
+* Simplifies the process of generating content for an AI.
 * Allows storytellers to quickly and easily manage entire settings.
-* Allows quick modification of existing powers.
+* Allows quick modification of existing content.
 
 
 ## The Superpower Template
@@ -62,4 +62,3 @@ All of the combat class descriptions assume that unpowered opponents have no sup
 * Modest: The power brings a reasonable amount of pleasure or simplicity that is worth any drawbacks it might have.
 * Beneficial: The power is so beneficial that the user's quality of life would noticeably decrease if it were lost.
 * Significant: The power upgrade the user's quality of life by a substantial amount. Losing it could be devestating.
-
