@@ -18,8 +18,6 @@ With advanced AI generation now available we can create massive quantities of st
 Culture describes the social behavior and norms within a grouo of peopole: beliefs, arts, customs, habits, etc. It is possible for sub-cultures to exist within a larger culture, or for many different cultures to live in the same area together. A cultural norm serves as guideline for behavior.
 
 A culture template is a single markup file with the designated headers and subheaders:
-* CultureID: A Global Unique Identifier that identifies the culture within the globally shared library of cultures.
-* Build Instructions: An original text instruction preparing it for AI generation. AI should only read this text, never overwrite it.
 * Lifestyle: Describes the common lifestyle(s) of how the members of the culture live.
 	* Family Life: Describes a stereotypical family life of a culture's inhabitants.
 	* Work Life and Work Ethic: Describes the work life of a culture's inhabitants.
