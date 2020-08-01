@@ -20,6 +20,7 @@ A vehicle template describes a particular model or type of vehicle that is prese
 The vehicle template is a markup file with the following designated headers:
 * VehicleID: A Global Unique Identifier that identifies the vehicle within the globally shared library of vehicles.
 * Build Instructions: An original text instruction preparing the vehicle for AI generation. AI should only read this text, never overwrite it.
+* Naming: Includes the true name of the vehicle, and other common or slang names that may be used for it.
 * Appearance: A description of the vehicle's appearance.
 * Cosmetic Options: A description of alternate styles or cosmetics the vehicle may commonly have.
 * Modification Options: A description of structural or internal changes that modify the vehicle in a mechanical way.
