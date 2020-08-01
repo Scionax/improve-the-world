@@ -1,18 +1,18 @@
 
 # Standardized Artifact Templates
-With advanced AI generation now available we can create massive quantities of artifacts extremely quickly for what is effectively free. The storytelling communities can therefore greatly benefit by coordinating a standardized template for artifacts and other storytelling materials.
+With advanced AI generation now available we can create massive quantities of storytelling content for what is effectively free. A well-built and standardized model will greatly benefit the storytelling and worldbuilding communities.
 
-## Advantages of Standardizing Artifact Templates
+## Advantages of Standardizing Storytelling Templates
 * Creates a consistent format to train AI models on.
 * Creates a consistent format for editors, APIs, databases, and other development tools to use.
-* Enables automatic integration into other storytelling materials, such as settings, locations, etc.
+* Enables simple and automatic integration into related storytelling materials.
 * Greatly simplifies collaboration between storytellers.
 * Greatly simplifies worldbuilding process and reduces the time investment.
 * Provides a shared vocabulary and understanding among the community.
 * Enables a universal system for lookup and retrieval.
-* Simplifies the process of generating content for AI and humans alike.
+* Simplifies the process of generating content for an AI.
 * Allows storytellers to quickly and easily manage entire settings.
-* Allows quick modification of existing artifacts.
+* Allows quick modification of existing content.
 
 ## The Artifact Template
 An artifact describes an item that is not mass-produced; often one that is supernatural or magical in nature. There are very few (often only one) of its kind, and its uniqueness often makes its history and function important to the story.
