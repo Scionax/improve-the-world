@@ -23,12 +23,12 @@ Superpowers are assigned to logically similar groups rather than packed into one
 The superpower template is a single markup file with specific heading requirements as part of the specification. Some primary headers also have secondary headers.
 
 The designated headers within the template are as follows:
-* SuperpowerID: A Global Unique Identifier that identifies the superpower within the globally shared library of superpowers.
 * Utility Class: Indicates what utility class this power belongs to, or how useful it is. See 'Utility Class' notes.
 * Combat Class: If the power is suited for combat, this indicates the approximate power level. See 'Combat Class' notes.
 * Quality of Life Class: Indicates the approximate adjustment of the user's quality of life. See 'Quality of Life Class' notes.
-* Build Instructions: An original text instruction preparing it for AI generation. AI should only read this text, never overwrite it.
-* Abilities: Describes the advantages, disadvantages, mechanics, effects, activation requirements, and other aspects of the power's abilities.
+* Mechanics: Describes the mechanical behaviors and effects of the power, including any passive effects or effects upon activation.
+* Activation: Describes how to activate the power, if applicable, and any activation restrictions such as recharging times.
+* Limitations: Describes any remaining limitations on the power that weren't addressed as part of its activation, such as only working on certain enemies.
 * Implicit Powers: Describes secondary powers that are acquired out of necessity to ensure the power's primary abilities work as intended.
 
 
@@ -62,3 +62,4 @@ All of the combat class descriptions assume that unpowered opponents have no sup
 * Modest: The power brings a reasonable amount of pleasure or simplicity that is worth any drawbacks it might have.
 * Beneficial: The power is so beneficial that the user's quality of life would noticeably decrease if it were lost.
 * Significant: The power upgrade the user's quality of life by a substantial amount. Losing it could be devestating.
+
