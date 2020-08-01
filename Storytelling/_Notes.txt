@@ -1,0 +1,99 @@
+// Initial draft / concepts of templates prior to research.
+
+Important Buildings
+	Appearance
+	Layout
+	Description
+	Owners
+	Inhabitants
+	Plot Significance
+	History
+	
+
+District	// contains details about a city district, maybe minor cultural changes here, social impact, wealth, etc.
+City		// Contains details about districts within it.
+Region		// Contains details about region, including cities and important locations.
+
+Gods
+	Real?
+	Worldly Influence, if applicable
+	Appearance (folklore)
+	Real Appearance
+	Personality (folklore)
+	Personality (real)
+	Description
+	Religion and Followers
+	
+Secret Organizations
+
+Locations, Places
+
+Vegetation
+	Appearance, Cosmetic Styles and Options
+	Description
+	Agricultural Raising, Tending Requirements
+	Rarity
+	GUID
+	Archetype
+	Name
+	Common Names
+	Applications
+		Recipes
+		Alchemical Ingredients
+		Potions
+
+Creature
+	Appearance, Cosmetic Styles and Options
+	Behavior, Nature
+	Rarity
+	Abilities
+	Folklore
+	Interaction with Demihumans
+		Pet Use
+		Agricultural Use
+	Name, Common Names
+	Archetype
+	GUID
+
+Government
+	Type of Government
+	Economic System
+	Religious System(s)
+	Constitution
+	Laws (General categories of)
+	Power and Influence
+	Power over Provinces
+	Treasury
+	Hierarchy
+	Corruption
+	Social Services
+	Enforcement
+	Military
+	Conflict
+	Expected Authority Behavior (tyranny, family of insane people, benevolent)
+	Description
+	GUID
+
+Nation
+	Tech Level
+	Government
+	Economy
+	Culture(s)
+	Religion(s)
+
+Guild, Organization
+	Archetype: Sales, Trade, Other
+	Type: Candlemaker
+	Management Structure
+	Imports
+	Expenses
+	Business Tactics
+	Management Behavior, Viciousness
+	Internal Affairs, Management
+	Innovations
+	Morale
+	Employment Structure
+	Recruitment
+	Business Culture and Environment
+	
+	
