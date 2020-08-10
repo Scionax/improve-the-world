@@ -1,11 +1,16 @@
 
 ## Benefits of a UniID
+* Provides a system that can actually address and solve the economic and politic crises that aren't being addressed and solved.
 * Creates a globalized democratic institution that ignores borders and existing governments.
 * Solves global wealth inequality. Restores and maintains a healthy economy, and prevents exploitation.
 * Cannot "buy in" to the system with wealth, as is possible in the blockchain.
 * Creates a new system of democratized wealth.
 * Eliminates all tax laws; automates the entire process.
+* Transaction costs will be as cheap as we can make them; at least 40 times less than current transactions.
+* Can exchange goods and services without middle-men.
+* Access to all UniID services without a separate account.
 * Creates a democratized social ecosystem to eliminate shortcomings with networks like Facebook.
+* Creates a democratized market ecosystem to eliminate wealth disparities from corporations like Amazon.
 * Enables full and easy access to voting and provides a voting trail.
 * Eliminates voting fraud and election fraud.
 * Eliminates all forms of election tampering, gerrymandering, and voter discrimination.
