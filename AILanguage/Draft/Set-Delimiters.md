@@ -1,33 +1,41 @@
 
+### Section Delimiter
 
+	:1-2 Undefined, Past, Present, Future
+	:3-5
 
-	:Tag :TagType
-	:Tag :TagType :Property
-	:Tag :TagType :Property :Property
-	:Tag :TagType :Property :Property :Property
-	:Tag :TagType :Property :Property :Property :Property
-	:Tag :TagType [:Properties] (/PropertyTerminator)
+		Generic Section
+		Sentence
+		Statement (indicates a statement has begun; said, asked, told, requested, informed, etc.)
 
-	:String Terminator (ends a string, such as a name, title, subtitle, etc)
-	:Whitespace [X Spaces]
-	:Newline
-	:Separator
+		Aside (offhand information; e.g. "The assistant wore a lab coat (as many assistants do) while at work.")
+		Relevant Aside (details, specific to last object or subject; e.g. "Janet, who won the tournament last year, is excited.")
 
-	:Statement Start
-	:Statement Terminate
-	:Statement Terminate with Name
+	:6-8
 
-	:Sentance Terminate
-	:Sentance Terminate with Newline
+		Information
+		Narration
+		Declaration
+		Instruction
+		Question
+		Answer
+		Request
+		Response
+	
+### Branching Delimiter
 
-	:Paragraph
-	:SectionStart
+	:1-2 Undefined, Past, Present, Future
+	:3-6 Undefined, And, Or, But, Then, Otherwise, If, Until, While, Once, Except If, Except While, Except Once
 
-	:Title			// Terminates at Newline or String Terminator
-	:Subtitle		// Terminates at Newline or String Terminator
+### List Conjunction Delimiter
 
-	:HeaderLine :HeaderNum			// Terminates at Newline
-	:CommentLine :CommentNum		// Terminates at Newline
-	:BulletPoint :BulletLevel		// Terminates at Newline
-	:SubBullet :SubLevel			// Terminates at Newline
-	:BulletNum :BulletNumLevel		// Terminates at Newline
+	:1 List, Set or Collection
+	:2-3
+
+		And, All Of
+		Or, One Of
+		Any, Some Number Of
+
+	:4 Undefined, Set # of Entries
+	:5-8 One to Sixteen Entries (if Set # of Entries)
+
