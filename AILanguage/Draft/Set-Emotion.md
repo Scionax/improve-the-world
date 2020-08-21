@@ -1,10 +1,14 @@
 
-:1 Positive vs. Negative Emotions
-:2 to :5 Emotion within the Set
-:6 to :8 Emotional Spectrum (Empty to Full)
+### Emotions
+	
+	:1 Positive vs. Negative Emotions
+	:2 to :5 Emotion Archetype
+	:6 to :8 Emotional Spectrum (Empty to Full)
+	
+#### Emotion Archetype
 	
 	Positive Emotions
-	
+		
 		Happiness, Joy
 		Satisfaction, Calmness
 		Gratitude
@@ -21,9 +25,9 @@
 		Inspiration, Awe
 		Relief
 		Surprise
-	
+		
 	Negative Emotions
-	
+		
 		Sadness, Grief
 		Anger
 		Disappointment, Displeasure
